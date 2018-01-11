@@ -1,2 +1,3 @@
-# crawler
-craw everything
+# 爬虫
+1. 爬取百度百科python相关词条1000个网页输出html
+2. 爬取百度贴吧帖子输出html
